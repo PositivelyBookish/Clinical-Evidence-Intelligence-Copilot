@@ -17,7 +17,6 @@ Submit the following items together:
 
 1. **Written report**
    - Final file format: Microsoft Word or PDF
-   - Suggested source file in this repo: [report/report_outline.md](report/report_outline.md)
    - Target length: 2 pages of report content plus 1 bibliography page
 
 2. **Hackathon proof of concept**
@@ -27,7 +26,6 @@ Submit the following items together:
 
 3. **Slide presentation**
    - Final file format: PowerPoint
-   - Suggested source file in this repo: [slides/final_presentation_content.md](slides/final_presentation_content.md)
    - Recommended length: 8 slides
 
 4. **Recorded demo video**
@@ -169,11 +167,11 @@ Use this to show that the app:
 - Spend more time on the business value and the safety framing.
 - Use the app to prove the concept, not to show every implementation detail.
 
-## Recommended Folder-to-Deliverable Mapping
+## Recommended Deliverable Mapping
 
 - [README.md](README.md): project overview for evaluator or reviewer
-- [report/report_outline.md](report/report_outline.md): source for written report
-- [slides/final_presentation_content.md](slides/final_presentation_content.md): source for slide deck
+- written report: final Word or PDF document
+- slide deck: final PowerPoint
 - [video/demo_script.md](video/demo_script.md): source for recorded demo
 - [outputs/](outputs/): exported reviewer reports for screenshots or appendix material
 

@@ -9,3 +9,6 @@ outputs/*.csv
 outputs/*.txt
 report/final_report_draft.md
 video/final_demo_runbook.md
+report/
+slides/
+scripts/

@@ -170,7 +170,7 @@ The project is intended to support four related deliverables:
 - a PowerPoint presentation
 - a recorded demo video
 
-Supporting submission materials are included in the repository under `report/`, `slides/`, and [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md).
+Supporting submission guidance is included in [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md).
 
 ## Synthetic Data Notice
 
@@ -227,7 +227,6 @@ clinical-evidence-intelligence-copilot/
 │   ├── synthetic_documents/
 │   ├── sample_claims.csv
 │   └── expected_labels.json
-├── scripts/
 ├── src/
 │   ├── document_loader.py
 │   ├── text_cleaner.py
@@ -240,8 +239,6 @@ clinical-evidence-intelligence-copilot/
 │   ├── summarizer.py
 │   ├── evaluator.py
 │   └── export_report.py
-├── report/
-├── slides/
 ├── video/
 ├── outputs/
 ├── tests/
@@ -286,9 +283,9 @@ clinical-evidence-intelligence-copilot/
 
 This repository is organized so the final assessment package can be assembled cleanly:
 
-- `report/` for the written report
-- `slides/` for the presentation deck
-- `video/` for the demo script or recording notes
+- final written report as Word or PDF
+- final presentation as PowerPoint
+- `video/` for demo script or recording notes
 - `outputs/` for exported reviewer reports and demo artifacts
 
 ## Why This Project Works as a Portfolio Piece
