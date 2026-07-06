@@ -252,7 +252,6 @@ clinical-evidence-intelligence-copilot/
 │   ├── summarizer.py
 │   ├── evaluator.py
 │   └── export_report.py
-├── video/
 ├── outputs/
 ├── tests/
 └── assets/
@@ -298,7 +297,7 @@ This repository is organized so the final assessment package can be assembled cl
 
 - final written report as Word or PDF
 - final presentation as PowerPoint
-- `video/` for demo script or recording notes
+- final demo video as `.mp4`
 - `outputs/` for exported reviewer reports and demo artifacts
 
 ## Why This Project Works as a Portfolio Piece

@@ -30,7 +30,6 @@ Submit the following items together:
 
 4. **Recorded demo video**
    - Final artifact: screen recording with slides and app walkthrough
-   - Suggested source file in this repo: [video/demo_script.md](video/demo_script.md)
    - Recommended length: 5 to 7 minutes
 
 ## What the Evaluator Should Understand Quickly
@@ -172,7 +171,7 @@ Use this to show that the app:
 - [README.md](README.md): project overview for evaluator or reviewer
 - written report: final Word or PDF document
 - slide deck: final PowerPoint
-- [video/demo_script.md](video/demo_script.md): source for recorded demo
+- recorded demo: final video file
 - [outputs/](outputs/): exported reviewer reports for screenshots or appendix material
 
 ## Suggested Final File Names
