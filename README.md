@@ -8,6 +8,12 @@ Hosted app:
 
 - https://clinical-evidence-intelligence-copilot.streamlit.app
 
+## Final Deliverables
+
+- Report: [Vanaja_Cotiviti_Clinical_NLP_Report.docx](deliverables/Vanaja_Cotiviti_Clinical_NLP_Report.docx)
+- Presentation: [Vanaja_Agarwal_Cotiviti_Presentation.pptx](deliverables/Vanaja_Agarwal_Cotiviti_Presentation.pptx)
+- Demo video: add the final `.mp4` file under `deliverables/` before final submission if required in-repo
+
 ## Why This Project Is a Strong Fit for the Role
 
 This repository is intentionally designed to communicate the qualities a hiring evaluator would care about for a healthcare NLP, GenAI, and research-oriented internship:
@@ -228,6 +234,7 @@ clinical-evidence-intelligence-copilot/
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── deliverables/
 ├── data/
 │   ├── synthea_raw/
 │   ├── synthetic_documents/
