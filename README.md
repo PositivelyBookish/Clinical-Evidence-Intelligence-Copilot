@@ -12,7 +12,7 @@ Hosted app:
 
 - Report: [Vanaja_Cotiviti_Clinical_NLP_Report.docx](deliverables/Vanaja_Cotiviti_Clinical_NLP_Report.docx)
 - Presentation: [Vanaja_Agarwal_Cotiviti_Presentation.pptx](deliverables/Vanaja_Agarwal_Cotiviti_Presentation.pptx)
-- Demo video: add the final `.mp4` file under `deliverables/` before final submission if required in-repo
+- Demo video: [Vanaja Agarwal Cotivity Demo.mp4](<deliverables/Vanaja Agarwal Cotivity Demo.mp4>)
 
 ## Why This Project Is a Strong Fit for the Role
 
