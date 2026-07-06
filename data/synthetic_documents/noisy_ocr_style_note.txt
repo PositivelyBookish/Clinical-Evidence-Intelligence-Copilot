@@ -1,0 +1,30 @@
+SYNTHETIC CLINICAL DOCUMENT
+
+Document Type: OCR Imported Note
+Patlent Name: Casey Morgan
+Date  of  Service: 2026-04-04
+Provlder: Dr. Lila Gomez, MD
+
+Chief   Complaint:
+Follow-up  for  blood  pressure  and  chest  discomfort
+
+Hlstory:
+The patlent was seen for hypertenslon follow-up. An EKG was performed in cllnic.
+Medicatlon adherence was reviewed.
+
+Dlagnosis:
+Hypertenslon
+ICD-10: I10
+
+Procedures:
+EKG completed.
+CPT: 93000
+
+Medicatlon:
+Aspirin 81 mg dally
+
+Provider Slgnature:
+Dr. Lila Gomez, MD
+
+Reviewer Note:
+This note intentionally includes OCR-like misspellings, extra spaces, and broken formatting.

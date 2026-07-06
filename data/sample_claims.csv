@@ -1,0 +1,10 @@
+document_file,claimed_diagnosis,claimed_procedure,claimed_code,expected_diagnosis_status,expected_procedure_status,expected_code_status
+clean_supported_claim.txt,Hypertension,ECG,I10,Supported,Supported,Supported
+missing_signature.txt,Hypertension,ECG,I10,Supported,Supported,Supported
+unsupported_procedure.txt,Hypertension,ECG,93000,Supported,Not Supported,Not Supported
+negated_diagnosis.txt,Pneumonia,,J18.9,Negated,Missing Evidence,Not Supported
+unclear_support.txt,Angina,,,Unclear,Missing Evidence,Missing Evidence
+incomplete_documentation.txt,Hypertension,,I10,Supported,Missing Evidence,Unclear
+noisy_ocr_style_note.txt,Hypertension,EKG,93000,Supported,Supported,Supported
+synthetic_discharge_note_001.txt,Pneumonia,,J18.9,Supported,Missing Evidence,Supported
+synthetic_ed_note_002.txt,Acute myocardial infarction,,,Negated,Missing Evidence,Missing Evidence

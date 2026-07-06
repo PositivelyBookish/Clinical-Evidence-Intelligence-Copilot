@@ -1,0 +1,30 @@
+SYNTHETIC CLINICAL DOCUMENT
+
+Document Type: Claim Review Note
+Patient Name: Jordan Carter
+Date of Service: 2026-02-14
+Provider Name: Dr. Elena Morris, MD
+
+Chief Complaint:
+Routine follow-up for blood pressure management and intermittent palpitations.
+
+History:
+The patient has known hypertension and was seen in clinic for follow-up. An ECG was performed today because of intermittent palpitations. Blood pressure remained elevated during the visit.
+
+Assessment:
+Hypertension, stable but still requiring medication management.
+ICD-10: I10
+
+Procedures:
+ECG completed in office.
+CPT: 93000
+
+Medications:
+Aspirin 81 mg daily
+Lisinopril 10 mg daily
+
+Provider Signature:
+Dr. Elena Morris, MD
+
+Reviewer Note:
+Diagnosis and procedure are both directly documented and clearly supported.

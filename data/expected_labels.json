@@ -1,0 +1,156 @@
+{
+  "clean_supported_claim.txt": {
+    "diagnoses": [
+      "hypertension"
+    ],
+    "procedures": [
+      "ECG"
+    ],
+    "medications": [
+      "aspirin",
+      "lisinopril"
+    ],
+    "codes": [
+      "I10",
+      "93000"
+    ],
+    "missing_fields": [],
+    "negated_entities": [],
+    "uncertain_entities": [],
+    "completeness": "High"
+  },
+  "missing_signature.txt": {
+    "diagnoses": [
+      "hypertension"
+    ],
+    "procedures": [
+      "ECG"
+    ],
+    "medications": [
+      "hydrochlorothiazide"
+    ],
+    "codes": [
+      "I10",
+      "93000"
+    ],
+    "missing_fields": [
+      "provider_signature"
+    ],
+    "negated_entities": [],
+    "uncertain_entities": [],
+    "completeness": "Medium"
+  },
+  "unsupported_procedure.txt": {
+    "diagnoses": [
+      "hypertension"
+    ],
+    "procedures": [],
+    "medications": [
+      "losartan"
+    ],
+    "codes": [
+      "I10"
+    ],
+    "missing_fields": [],
+    "negated_entities": [],
+    "uncertain_entities": [],
+    "completeness": "Medium"
+  },
+  "negated_diagnosis.txt": {
+    "diagnoses": [],
+    "procedures": [
+      "Chest X-ray"
+    ],
+    "medications": [
+      "acetaminophen"
+    ],
+    "codes": [
+      "71046"
+    ],
+    "missing_fields": [],
+    "negated_entities": [
+      "pneumonia"
+    ],
+    "uncertain_entities": [],
+    "completeness": "High"
+  },
+  "unclear_support.txt": {
+    "diagnoses": [],
+    "procedures": [],
+    "medications": [
+      "aspirin"
+    ],
+    "codes": [],
+    "missing_fields": [],
+    "negated_entities": [],
+    "uncertain_entities": [
+      "angina"
+    ],
+    "completeness": "Medium"
+  },
+  "incomplete_documentation.txt": {
+    "diagnoses": [
+      "hypertension"
+    ],
+    "procedures": [],
+    "medications": [],
+    "codes": [],
+    "missing_fields": [
+      "date_of_service",
+      "provider_name",
+      "provider_signature"
+    ],
+    "negated_entities": [],
+    "uncertain_entities": [],
+    "completeness": "Low"
+  },
+  "noisy_ocr_style_note.txt": {
+    "diagnoses": [
+      "hypertension"
+    ],
+    "procedures": [
+      "EKG"
+    ],
+    "medications": [
+      "aspirin"
+    ],
+    "codes": [
+      "I10",
+      "93000"
+    ],
+    "missing_fields": [],
+    "negated_entities": [],
+    "uncertain_entities": [],
+    "completeness": "Medium"
+  },
+  "synthetic_discharge_note_001.txt": {
+    "diagnoses": [
+      "pneumonia"
+    ],
+    "procedures": [],
+    "medications": [],
+    "codes": [
+      "J18.9"
+    ],
+    "missing_fields": [],
+    "negated_entities": [],
+    "uncertain_entities": [],
+    "completeness": "High"
+  },
+  "synthetic_ed_note_002.txt": {
+    "diagnoses": [
+      "chest pain"
+    ],
+    "procedures": [],
+    "medications": [],
+    "codes": [
+      "R07.9"
+    ],
+    "missing_fields": [],
+    "negated_entities": [
+      "acute myocardial infarction"
+    ],
+    "uncertain_entities": [],
+    "completeness": "Medium"
+  }
+}

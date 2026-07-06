@@ -1,0 +1,28 @@
+SYNTHETIC CLINICAL DOCUMENT
+
+Document Type: Claim Review Note
+Patient Name: Morgan Ellis
+Date of Service: 2026-03-10
+Provider Name: Dr. Priya Shah, MD
+
+Chief Complaint:
+Blood pressure follow-up.
+
+History:
+The patient was evaluated for hypertension management. The note discusses lifestyle modification and medication adherence. No cardiac procedure is documented during this visit.
+
+Assessment:
+Hypertension
+ICD-10: I10
+
+Procedures:
+No procedure performed today.
+
+Medications:
+Losartan 50 mg daily
+
+Provider Signature:
+Dr. Priya Shah, MD
+
+Reviewer Note:
+Hypertension is supported, but the claimed ECG is not mentioned anywhere in the note.

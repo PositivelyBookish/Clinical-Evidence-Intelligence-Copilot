@@ -1,0 +1,28 @@
+SYNTHETIC CLINICAL DOCUMENT
+
+Document Type: Coding Validation Note
+Patient Name: Taylor Brooks
+Date of Service: 2026-03-01
+Provider Name: Dr. Maya Patel, MD
+
+Chief Complaint:
+Follow-up for hypertension and dizziness.
+
+History:
+The patient returned for follow-up of hypertension. ECG obtained in clinic during this visit. Symptoms improved by the end of the appointment.
+
+Assessment:
+Hypertension
+ICD-10: I10
+
+Procedures:
+ECG completed and reviewed.
+CPT: 93000
+
+Medications:
+Hydrochlorothiazide 12.5 mg daily
+
+Provider Signature:
+
+Reviewer Note:
+Clinical support is present, but the signature field is missing.

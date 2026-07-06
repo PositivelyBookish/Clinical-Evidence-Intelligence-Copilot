@@ -1,0 +1,27 @@
+SYNTHETIC CLINICAL DOCUMENT
+
+Document Type: Progress Note
+Patient Name: Cameron Lee
+Date of Service: 2026-03-15
+Provider Name: Dr. Samuel Greene, MD
+
+Chief Complaint:
+Cough and fever evaluation.
+
+History:
+The patient presented with respiratory symptoms. Chest imaging showed no focal infiltrate. There is no evidence of pneumonia. Pneumonia was ruled out after examination and review of imaging.
+
+Assessment:
+Upper respiratory symptoms without confirmed bacterial infection.
+
+Procedures:
+Chest X-ray performed.
+
+Medications:
+Acetaminophen as needed
+
+Provider Signature:
+Dr. Samuel Greene, MD
+
+Reviewer Note:
+Pneumonia should not be treated as supported because the diagnosis is explicitly negated.

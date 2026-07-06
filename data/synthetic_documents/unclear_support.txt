@@ -1,0 +1,27 @@
+SYNTHETIC CLINICAL DOCUMENT
+
+Document Type: Progress Note
+Patient Name: Avery Bennett
+Date of Service: 2026-03-20
+Provider Name: Dr. Nora Kim, MD
+
+Chief Complaint:
+Intermittent chest pressure.
+
+History:
+The patient reports intermittent chest pressure with exertion. Possible angina is being considered. There is concern for angina pending further workup and additional testing.
+
+Assessment:
+Possible angina, not yet confirmed.
+
+Procedures:
+Further cardiac workup planned.
+
+Medications:
+Aspirin 81 mg daily
+
+Provider Signature:
+Dr. Nora Kim, MD
+
+Reviewer Note:
+Angina is uncertain and should be marked unclear rather than fully supported.

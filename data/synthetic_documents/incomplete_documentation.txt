@@ -1,0 +1,22 @@
+SYNTHETIC CLINICAL DOCUMENT
+
+Document Type: Claim Review Note
+Patient Name: Riley Stone
+
+Chief Complaint:
+Follow-up.
+
+History:
+Brief note only.
+
+Assessment:
+Hypertension
+
+Procedures:
+
+Medications:
+
+Provider Signature:
+
+Reviewer Note:
+Very sparse note with missing date of service, missing provider, and missing signature.

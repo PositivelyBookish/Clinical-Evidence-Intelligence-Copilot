@@ -1,0 +1,22 @@
+SYNTHETIC CLINICAL DOCUMENT
+
+Document ID: SYN-ED-002
+Document Type: Emergency Department Note
+
+Chief Complaint:
+Chest pain.
+
+History of Present Illness:
+The patient reports intermittent chest discomfort after exertion. Denies shortness of breath. Denies fever. No clear documentation of acute myocardial infarction appears in this note.
+
+Assessment:
+Chest pain under evaluation. Acute myocardial infarction not confirmed in this record.
+
+Plan:
+Observe, trend labs, and obtain cardiology follow-up as needed.
+
+Provider Signature:
+Dr. Synthetic ED, MD
+
+Disclaimer:
+This is a synthetic note created for demonstration only.

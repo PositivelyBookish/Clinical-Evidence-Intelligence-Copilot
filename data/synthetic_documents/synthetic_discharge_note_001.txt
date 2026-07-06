@@ -1,0 +1,23 @@
+SYNTHETIC CLINICAL DOCUMENT
+
+Document ID: SYN-DS-001
+Document Type: Discharge Summary
+
+Chief Complaint:
+Shortness of breath, fever, and productive cough.
+
+History of Present Illness:
+The patient presented with three days of worsening cough and fever. Chest imaging was concerning for right lower lobe pneumonia. The patient was admitted for IV antibiotics and supportive care.
+
+Assessment:
+Community-acquired pneumonia with hypoxia, improving on treatment.
+ICD-10: J18.9
+
+Plan:
+Complete antibiotic course and follow up with primary care.
+
+Provider Signature:
+Dr. Synthetic Discharge, MD
+
+Disclaimer:
+This is a synthetic note created for demonstration only.
