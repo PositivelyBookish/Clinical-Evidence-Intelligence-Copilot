@@ -170,12 +170,7 @@ The project is intended to support four related deliverables:
 - a PowerPoint presentation
 - a recorded demo video
 
-Supporting source files for those deliverables are included in:
-
-- [report/final_report_draft.md](report/final_report_draft.md)
-- [slides/final_presentation_content.md](slides/final_presentation_content.md)
-- [video/final_demo_runbook.md](video/final_demo_runbook.md)
-- [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md)
+Supporting submission materials are included in the repository under `report/`, `slides/`, and [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md).
 
 ## Synthetic Data Notice
 
