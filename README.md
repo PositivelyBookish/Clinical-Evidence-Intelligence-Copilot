@@ -2,6 +2,12 @@
 
 Clinical Evidence Intelligence Copilot is a healthcare NLP + GenAI proof of concept for evidence-grounded clinical document review in payment accuracy workflows.
 
+## Live Demo
+
+Hosted app:
+
+- https://clinical-evidence-intelligence-copilot.streamlit.app
+
 ## Why This Project Is a Strong Fit for the Role
 
 This repository is intentionally designed to communicate the qualities a hiring evaluator would care about for a healthcare NLP, GenAI, and research-oriented internship:
